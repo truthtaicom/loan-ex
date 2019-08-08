@@ -1,0 +1,32 @@
+[
+  {
+    "id" : "3d4f306-8f4e-11e4-bb7a-ijwn5672bnsss0",
+    "name" : "Rent office",
+    "owner": "Jsohn Kahd",
+    "amount": 5263,
+    "loanTerm": 12,
+    "payWeekly": 109.64,
+    "createdAt": "2019-02-22T16:20:23Z",
+    "paid": false
+  },
+  {
+    "id" : "1d4f284-8f4e-11e4-873-0abccertyus222",
+    "name" : "Buy iPhone",
+    "owner": "Jsohn Kahd",
+    "amount": 2000,
+    "loanTerm": 6,
+    "payWeekly": 83.3,
+    "createdAt": "2019-07-12T05:20:23Z",
+    "paid": true
+  },
+  {
+    "id" : "3d4f234-8f4e-11e4-bb23-0abcc8df828jh",
+    "name" : "Hospital fee",
+    "owner": "Jsohn Kahd",
+    "amount": 8399,
+    "loanTerm": 3,
+    "payWeekly": 699.91,
+    "createdAt": "2019-08-01T18:20:23Z",
+    "paid": false
+  }
+]
